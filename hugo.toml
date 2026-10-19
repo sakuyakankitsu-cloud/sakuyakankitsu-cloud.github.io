@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-cn'
+title = '黛安的档案库'
+theme = "vintage-web-hugo-theme"
+
+[params]
+  show_browser_chrome = true
+  show_status_bar = true
+  show_retro_elements = true
